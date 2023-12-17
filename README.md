@@ -102,7 +102,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Conclusion
 
+
 PresKibo prioritizes security at every level, from database design to application features. These measures aim to create a robust and secure digital environment for managing medical information.
 
 For any security concerns or suggestions, please contact the development team.
+![Computer Security](https://github.com/labibazad191/-PresKibo-Fortifying-Security-in-the-Digital-Realm/assets/96786379/26cefd92-f231-49ed-bdd2-95ac33320816)
 
