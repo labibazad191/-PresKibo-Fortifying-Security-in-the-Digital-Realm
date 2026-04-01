@@ -92,13 +92,11 @@ Enhanced daily database autobackup with the following measures:
 - Optimization of query performance with proper indexing.
 
 This project prioritizes security at every level, adhering to industry best practices and standards. For any security concerns or suggestions, please contact the development team.
-
-
+## Project View
+![Home_Page](https://github.com/labibazad191/Portfolio--Labib-Azad/blob/73b4cb9c4a585713b5b85d6ca57609ff96759524/public/images/BeFunge93Interpreter/preskibo.jpg)
 ## Contributions
 Contributions are welcome. Feel free to submit issues or pull requests to enhance the security features of this login verification system.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Conclusion
 
